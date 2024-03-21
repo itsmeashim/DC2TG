@@ -1,5 +1,4 @@
 import requests
-from variables import log_webhook_url, BOT_TOKEN, GROUP_ID
 from dotenv import load_dotenv
 import os
 

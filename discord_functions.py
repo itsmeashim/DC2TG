@@ -1,4 +1,3 @@
-from variables import log_webhook_url, webhook_url
 from discord_logger import send_message_to_discord, send_exception_to_discord
 import requests
 import re
